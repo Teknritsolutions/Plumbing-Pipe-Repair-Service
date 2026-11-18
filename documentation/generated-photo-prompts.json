@@ -1,0 +1,46 @@
+{
+  "tool": "Built-in image_gen",
+  "sharedPrompt": "Create a photorealistic premium editorial photograph for Flowline, a plumbing services website. [Scene brief] Authentic human proportions and physically plausible plumbing. Natural material textures, refined navy and muted teal palette with warm neutrals, clean composition, soft natural light, professional commercial photography, landscape 3:2 crop. No text, no logos, no watermarks. Single photograph.",
+  "images": [
+    {
+      "file": "assets/images/unique/about-hero.webp",
+      "prompt": "A small diverse team of three plumbing professionals in clean navy workwear having a morning briefing at a bright modern workshop, copper fittings and neatly organized tools visible, candid wide composition."
+    },
+    {
+      "file": "assets/images/unique/services-hero.webp",
+      "prompt": "A professional plumber in navy workwear inspecting a modern bathroom vanity with a homeowner, elegant neutral tiled bathroom, realistic plumbing service consultation, wide composition."
+    },
+    {
+      "file": "assets/images/unique/repair-hero.webp",
+      "prompt": "Close detailed side view of gloved plumber hands replacing an accessible copper pipe valve with two appropriate wrenches, orderly residential utility room, wide composition."
+    },
+    {
+      "file": "assets/images/unique/pricing-hero.webp",
+      "prompt": "A homeowner and a plumbing professional seated at a warm oak kitchen table reviewing a plain printed estimate with a floor plan and small copper fittings, no readable words, natural daylight, wide composition."
+    },
+    {
+      "file": "assets/images/unique/contact-hero.webp",
+      "prompt": "Friendly female plumbing service coordinator in a refined small office wearing a headset and navy shirt, laptop and simple appointment calendar, warm natural light, candid and approachable, wide composition."
+    },
+    {
+      "file": "assets/images/unique/journal-hero.webp",
+      "prompt": "Editorial still life of a brass faucet, copper pipe fittings, an adjustable wrench and a blank open maintenance notebook on pale stone countertop, soft morning light, carefully styled yet practical, wide composition."
+    },
+    {
+      "file": "assets/images/unique/article-hero.webp",
+      "prompt": "Close view of a plumber using a moisture meter against a wall near accessible domestic pipework while checking for a concealed leak, realistic tools, navy workwear, no readable text, wide composition."
+    },
+    {
+      "file": "assets/images/unique/tap-detail.webp",
+      "prompt": "Architectural detail photograph of a brushed nickel kitchen faucet over a spotless pale ceramic sink, running clear water, beautiful daylight, soft green foliage reflected in background, no people, wide composition."
+    },
+    {
+      "file": "assets/images/unique/not-found.webp",
+      "prompt": "Orderly collection of copper elbow joints and pipe fittings on a pale stone workbench, one disconnected elbow in foreground, refined editorial photography with a subtle sense of a missing connection, no text, wide composition."
+    },
+    {
+      "file": "assets/images/unique/coming-soon.webp",
+      "prompt": "New contemporary utility room nearing completion, neatly mounted fresh copper pipes and brass valves, a plumbing technician in navy seen from behind making final adjustments, gentle natural daylight, wide composition."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tool": "Built-in image_gen",
+  "sharedPrompt": "Photorealistic premium editorial photograph for a plumbing company website process card. [Scene brief] Vertical composition suitable for a tall background card, subject and activity in the upper half, realistic anatomy and plumbing fixtures, refined navy teal warm neutral palette, professional natural light photography. No text, no branding, no watermark. Single photograph.",
+  "images": [
+    {
+      "file": "assets/images/process/request.webp",
+      "prompt": "Homeowner in a bright contemporary kitchen making a plumbing service appointment by smartphone, natural candid moment, tasteful warm neutral interior, phone screen not visible."
+    },
+    {
+      "file": "assets/images/process/discuss.webp",
+      "prompt": "Plumbing professional in navy workwear and a homeowner discussing a slow kitchen drain beside a modern sink, attentive conversation, realistic tools on a cloth, natural daylight."
+    },
+    {
+      "file": "assets/images/process/visit.webp",
+      "prompt": "Friendly professional plumber in clean navy workwear arriving at the front door of a beautiful modern house carrying a compact tool case, homeowner welcoming the technician, natural candid composition."
+    },
+    {
+      "file": "assets/images/process/check.webp",
+      "prompt": "Plumber and homeowner inspecting a newly repaired kitchen faucet together, clear water running into a clean sink, plumber checking the fitting and homeowner watching, reassuring professional completion of service."
+    }
+  ]
+}

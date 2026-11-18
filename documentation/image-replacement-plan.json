@@ -1,0 +1,47 @@
+[
+  [
+    "pages/about.html",
+    "about-hero",
+    "Plumbing team planning the day in an organized workshop"
+  ],
+  [
+    "pages/services.html",
+    "services-hero",
+    "Plumber consulting with a homeowner in a modern bathroom"
+  ],
+  [
+    "pages/service-details.html",
+    "repair-hero",
+    "Gloved plumber replacing a copper pipe valve"
+  ],
+  [
+    "pages/pricing.html",
+    "pricing-hero",
+    "Homeowner reviewing a plumbing estimate with a professional"
+  ],
+  [
+    "pages/contact.html",
+    "contact-hero",
+    "Friendly plumbing service coordinator taking an appointment"
+  ],
+  [
+    "pages/blog.html",
+    "journal-hero",
+    "Plumbing fittings and a home maintenance notebook on a stone counter"
+  ],
+  [
+    "pages/blog-details.html",
+    "article-hero",
+    "Plumber using a moisture meter to investigate a concealed leak"
+  ],
+  [
+    "pages/404.html",
+    "not-found",
+    "Copper pipe fittings with a disconnected elbow on a workbench"
+  ],
+  [
+    "pages/coming-soon.html",
+    "coming-soon",
+    "Plumbing technician completing a new utility room"
+  ]
+]

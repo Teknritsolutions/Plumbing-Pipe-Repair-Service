@@ -1,0 +1,15 @@
+{
+    "name": "stackly-plumbing",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "build": "node scripts/build.cjs && node scripts/finalize.cjs && prettier --write --tab-width 4 --print-width 100 --html-whitespace-sensitivity ignore index.html pages/*.html",
+        "start": "node scripts/serve.cjs",
+        "test": "node tests/site.spec.cjs"
+    },
+    "devDependencies": {
+        "@axe-core/playwright": "^4.14.0",
+        "@playwright/test": "1.61.1",
+        "prettier": "3.6.2"
+    }
+}

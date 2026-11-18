@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Configure siteUrl before deployment.
+Sitemap: https://example.com/sitemap.xml

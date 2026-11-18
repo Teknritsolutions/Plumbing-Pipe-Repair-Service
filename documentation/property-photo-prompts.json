@@ -1,0 +1,13 @@
+{
+  "tool": "Built-in image_gen",
+  "images": [
+    {
+      "file": "assets/images/property/residential.webp",
+      "prompt": "Premium photorealistic editorial website photograph. A beautiful lived-in contemporary home kitchen with a plumber in navy carefully servicing a sink faucet, homeowner nearby, warm natural light, calm organized interior, clear residential plumbing context. Landscape composition, authentic proportions, physically plausible plumbing, refined teal navy and warm neutral palette, natural textures and realistic light. No text, no logos, no watermark."
+    },
+    {
+      "file": "assets/images/property/commercial.webp",
+      "prompt": "Premium photorealistic editorial website photograph. A plumbing maintenance technician in navy workwear checking a clean brass valve manifold in a contemporary commercial building mechanical room, glass office corridor visible beyond, professional orderly facilities maintenance. Landscape composition, authentic proportions, physically plausible plumbing, refined teal navy and warm neutral palette, natural textures and realistic light. No text, no logos, no watermark."
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "date": "2026-11-12T15:13:04.736Z",
+  "pages": 13,
+  "widths": [
+    320,
+    360,
+    375,
+    390,
+    420,
+    480,
+    640,
+    768,
+    820,
+    1024,
+    1100,
+    1101,
+    1280,
+    1440,
+    1920
+  ],
+  "states": [
+    [
+      "light",
+      "ltr"
+    ],
+    [
+      "dark",
+      "ltr"
+    ],
+    [
+      "light",
+      "rtl"
+    ],
+    [
+      "dark",
+      "rtl"
+    ]
+  ],
+  "layoutChecks": 780,
+  "errors": [],
+  "accessibility": [
+    {
+      "file": "index.html",
+      "theme": "light",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "index.html",
+      "theme": "dark",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "index.html",
+      "theme": "light",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "index.html",
+      "theme": "dark",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/404.html",
+      "theme": "light",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/404.html",
+      "theme": "dark",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/404.html",
+      "theme": "light",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/404.html",
+      "theme": "dark",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/about.html",
+      "theme": "light",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/about.html",
+      "theme": "dark",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/about.html",
+      "theme": "light",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/about.html",
+      "theme": "dark",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/blog-details.html",
+      "theme": "light",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/blog-details.html",
+      "theme": "dark",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/blog-details.html",
+      "theme": "light",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/blog-details.html",
+      "theme": "dark",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/blog.html",
+      "theme": "light",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/blog.html",
+      "theme": "dark",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/blog.html",
+      "theme": "light",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/blog.html",
+      "theme": "dark",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/coming-soon.html",
+      "theme": "light",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/coming-soon.html",
+      "theme": "dark",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/coming-soon.html",
+      "theme": "light",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/coming-soon.html",
+      "theme": "dark",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/contact.html",
+      "theme": "light",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/contact.html",
+      "theme": "dark",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/contact.html",
+      "theme": "light",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/contact.html",
+      "theme": "dark",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/emergency.html",
+      "theme": "light",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/emergency.html",
+      "theme": "dark",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/emergency.html",
+      "theme": "light",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/emergency.html",
+      "theme": "dark",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/home-2.html",
+      "theme": "light",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/home-2.html",
+      "theme": "dark",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/home-2.html",
+      "theme": "light",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/home-2.html",
+      "theme": "dark",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/index.html",
+      "theme": "light",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/index.html",
+      "theme": "dark",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/index.html",
+      "theme": "light",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/index.html",
+      "theme": "dark",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/pricing.html",
+      "theme": "light",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/pricing.html",
+      "theme": "dark",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/pricing.html",
+      "theme": "light",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/pricing.html",
+      "theme": "dark",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/service-details.html",
+      "theme": "light",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/service-details.html",
+      "theme": "dark",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/service-details.html",
+      "theme": "light",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/service-details.html",
+      "theme": "dark",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/services.html",
+      "theme": "light",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/services.html",
+      "theme": "dark",
+      "dir": "ltr",
+      "violations": []
+    },
+    {
+      "file": "pages/services.html",
+      "theme": "light",
+      "dir": "rtl",
+      "violations": []
+    },
+    {
+      "file": "pages/services.html",
+      "theme": "dark",
+      "dir": "rtl",
+      "violations": []
+    }
+  ],
+  "interactions": [
+    "Desktop dropdowns, Escape, theme persistence, direction persistence, mobile nested menus",
+    "Problem selector and keyboard, journal category/search/no results, all form types empty/valid/invalid states, FAQ",
+    "Three query-selected full journal articles, unique local photos, synchronized titles and five-section layouts"
+  ],
+  "browsers": [
+    "157.0.8103.39"
+  ]
+}

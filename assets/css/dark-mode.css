@@ -1,0 +1,32 @@
+﻿html[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #101f2b;
+    --surface: #142734;
+    --card: #192e3c;
+    --text: #ecf3f6;
+    --muted: #b2c3ce;
+    --border: #344b59;
+    --accent-soft: #1b3942;
+    --teal: #6bcbd0;
+    --teal-ink: #6bcbd0;
+}
+html[data-theme="dark"] .button:not(.secondary):not(.light-button) {
+    background: #087e8b;
+    border-color: #087e8b;
+    color: white;
+}
+html[data-theme="dark"] .button:not(.secondary):hover {
+    background: #086d78;
+}
+html[data-theme="dark"] .pipe-illustration > span {
+    color: var(--text);
+}
+html[data-theme="dark"] .field-error {
+    color: #ffb4ac;
+}
+html[data-theme="dark"] [aria-invalid="true"] {
+    border-color: #ffb4ac;
+}
+html[data-theme="dark"] .filter-buttons button[aria-pressed="true"] {
+    background: #087e8b;
+}

@@ -1,0 +1,35 @@
+﻿[dir="rtl"] .button > span,
+[dir="rtl"] .text-link > span {
+    display: inline-block;
+    transform: scaleX(-1);
+}
+[dir="rtl"] .hero-photo > img {
+    border-radius: 12px 12px 12px 60px;
+}
+[dir="rtl"] .home-hero {
+    background: linear-gradient(255deg, var(--bg) 52%, var(--surface) 52%);
+}
+[dir="rtl"] input[type="email"],
+[dir="rtl"] input[type="tel"] {
+    direction: ltr;
+    text-align: end;
+}
+@media (max-width: 767px) {
+    [dir="rtl"] .home-hero {
+        background: var(--surface);
+    }
+}
+/* Keep Latin demo copy and contact numbers legible inside mirrored layouts. */
+[dir="rtl"] h1,
+[dir="rtl"] h2,
+[dir="rtl"] h3,
+[dir="rtl"] p,
+[dir="rtl"] blockquote,
+[dir="rtl"] figcaption {
+    unicode-bidi: plaintext;
+}
+[dir="rtl"] a[href^="tel:"],
+[dir="rtl"] a[href^="mailto:"] {
+    direction: ltr;
+    unicode-bidi: isolate;
+}

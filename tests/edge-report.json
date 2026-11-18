@@ -1,0 +1,13 @@
+{
+  "browser": "Edge",
+  "errors": [],
+  "layoutChecks": 156,
+  "submissionStates": [
+    "invalid email",
+    "past date",
+    "loading and disabled control",
+    "mocked HTTP 500 error",
+    "mocked HTTP 200 accepted request; no booking confirmation"
+  ],
+  "version": "157.0.4341.42"
+}
